@@ -5,9 +5,3 @@ console.log(i)
 i = i+1
 }
 
-// to print 10 to 1 numbers using while loop
-let j = 20;
-while(j>=11){
-console.log(j)
-j = j-1
-}
