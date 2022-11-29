@@ -8,4 +8,4 @@ if(num%3 == 0){
 else{
     console.log("not divisible");
     
-}
+} 
