@@ -5,7 +5,7 @@ console.log(i.length);
 
 
 
-// to print the index value
+// to know the n number values
 
 let j=[10,20,30,40]
 console.log(j.length-1);
