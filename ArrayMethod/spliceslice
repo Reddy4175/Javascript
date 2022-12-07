@@ -1,3 +1,0 @@
-let names=["r","t","w","z","p"]
-
-console.log(names.slice(2,4))

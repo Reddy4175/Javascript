@@ -1,0 +1,12 @@
+let a=[20,30,60,50,88]
+{
+    console.log(a.shift());  //removing the first element in the array
+    console.log(a)
+}
+
+var b=[99,101,1,3,8,9]
+{
+    console.log(b.unshift(11));  // Adding the first element in the array
+
+    console.log(b)
+}
