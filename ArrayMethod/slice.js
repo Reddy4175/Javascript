@@ -1,6 +1,7 @@
-let names=["r","t","w","z","p"]
+var a = ['apple','banana','cooc']
 
-console.log(names.splice(2,4))
+var b= a
+var c= a.slice()
 
-let emp=["redy","sai","vis","hem","emps"]
-console.log(emp.slice(2,4))
+a.push('date')
+
