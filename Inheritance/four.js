@@ -1,16 +1,22 @@
 class Parent{
-      constructor(){
-        console.log("pro stack")
+      constructor(id,name){
+
+        this.id=id;
+        this.name=name;
       }
       
 }
 
 class Child extends Parent{
-    constructor(){
+    constructor(id,name){
         super()
-        console.log("jspiders")
+        this.id=id;
+        this.name=name;
+        
     }
 
 }
- let a1=new Child()
- 
+ let a1=new Child(101,"reddy")
+ let a2= new Child(102,"pro")
+ console.log(a1)
+ console.log(a2)
