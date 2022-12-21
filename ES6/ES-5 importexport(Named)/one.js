@@ -1,5 +1,5 @@
 let ename="rahul";
-class Employee{
+class Employees{
     constructor(){
         console.log("emp class")
     }
@@ -7,4 +7,4 @@ class Employee{
         
     }
 }
-module.exports={ename,Employee}
+module.exports={ename,Employees}
