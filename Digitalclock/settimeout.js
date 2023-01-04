@@ -11,6 +11,3 @@ setTimeout(() => {
 setTimeout(() => {
     console.log("Req 4")
 }, [1000])
-setTimeout(() => {
-    console.log("Req 5")
-}, [1000])
